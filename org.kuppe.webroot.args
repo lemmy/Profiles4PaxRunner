@@ -1,0 +1,6 @@
+--platform=equinox
+--vmOptions=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 -DopenfireHome=/home/markus/eclipse/openfire/target/openfire -Djetty.home=/home/markus/eclipse/jetty/jetty.home
+--profiles=org.kuppe.webroot
+--profilesRepositories=https://scm.ops4j.org/repos/ops4j/projects/pax/runner-repository/,https://github.com/lemmy/Profiles4PaxRunner/raw/master
+
+
