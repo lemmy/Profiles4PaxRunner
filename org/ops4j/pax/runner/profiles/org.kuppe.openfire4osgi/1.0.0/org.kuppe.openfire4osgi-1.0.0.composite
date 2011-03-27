@@ -1,3 +1,4 @@
+scan-bundle:mvn:org.jivesoftware/org.jivesoftware.openfire4osgi/1.0.0-SNAPSHOT
+
 scan-composite:mvn:org.ops4j.pax.runner.profiles/org.kuppe.webroot/1.0.0/composite
 
-scan-bundle:mvn:org.jivesoftware/org.jivesoftware.openfire4osgi/1.0.0-SNAPSHOT
